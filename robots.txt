@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ratolbat.gopde.com/ratolbat.txt
